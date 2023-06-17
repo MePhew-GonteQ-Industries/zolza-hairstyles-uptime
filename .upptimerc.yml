@@ -8,8 +8,7 @@ sites:
     url: https://api.zolza-hairstyles.pl/api/docs
 
 status-website:
-  cname: status.zolza-hairstyles.pl
-  # baseUrl: /your-repo-name
+  baseUrl: /zolza-hairstyles-uptime
   # favicon: 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Zołza Hairstyles Status
