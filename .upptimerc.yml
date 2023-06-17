@@ -6,11 +6,12 @@ sites:
     url: https://zolza-hairstyles.pl
   - name: API
     url: https://api.zolza-hairstyles.pl/api/docs
+    icon: https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/server.svg
 
 status-website:
   baseUrl: /zolza-hairstyles-uptime
-  # favicon: 
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/android-chrome-192x192.png
   name: Zołza Hairstyles Status
   navbar:
     - title: Status
