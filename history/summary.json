@@ -4,10 +4,10 @@
     "url": "https://zolza-hairstyles.pl",
     "icon": "https://icons.duckduckgo.com/ip3/zolza-hairstyles.pl.ico",
     "slug": "zolza-hairstyles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -15,14 +15,16 @@
     "timeWeek": 458,
     "timeMonth": 410,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 1
+    }
   },
   {
     "name": "API",
     "url": "https://api.zolza-hairstyles.pl/api/docs",
     "icon": "https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/server.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 445,
     "timeMonth": 409,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   }
 ]
