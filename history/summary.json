@@ -24,18 +24,19 @@
     "url": "https://api.zolza-hairstyles.pl/api/docs",
     "icon": "https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/server.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 449,
-    "timeDay": 641,
-    "timeWeek": 464,
-    "timeMonth": 453,
-    "timeYear": 449,
+    "time": 448,
+    "timeDay": 496,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 448,
     "dailyMinutesDown": {
+      "2023-11-13": 0,
       "2023-07-20": 17
     }
   }
