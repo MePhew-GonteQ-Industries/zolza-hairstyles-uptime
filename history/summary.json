@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 450,
-    "timeDay": 711,
-    "timeWeek": 489,
-    "timeMonth": 443,
-    "timeYear": 450,
+    "time": 451,
+    "timeDay": 487,
+    "timeWeek": 493,
+    "timeMonth": 442,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2023-07-20": 18
     }
@@ -25,18 +25,19 @@
     "icon": "https://raw.githubusercontent.com/MePhew-GonteQ-Industries/zolza-hairstyles-uptime/master/assets/server.svg",
     "slug": "api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 496,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 448,
+    "uptime": "99.88%",
+    "uptimeDay": "82.51%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.88%",
+    "time": 447,
+    "timeDay": 346,
+    "timeWeek": 448,
+    "timeMonth": 442,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-11-13": 0,
+      "2023-11-14": 68,
+      "2023-11-13": 184,
       "2023-07-20": 17
     }
   }
