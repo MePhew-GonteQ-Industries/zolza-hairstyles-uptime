@@ -1,7 +1,7 @@
 url: https://api.zolza-hairstyles.pl/api/docs
-status: up
-code: 200
-responseTime: 344
-lastUpdated: 2025-05-15T23:14:46.390Z
+status: down
+code: 502
+responseTime: 334
+lastUpdated: 2025-05-16T21:59:06.564Z
 startTime: 2023-06-17T12:10:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
