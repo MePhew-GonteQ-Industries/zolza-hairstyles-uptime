@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zolza-hairstyles.pl.ico",
     "slug": "zolza-hairstyles",
     "status": "down",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 470,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 470,
-    "timeYear": 478,
+    "timeMonth": 461,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2025-11-14": 1180,
       "2025-11-13": 1440,
@@ -39,7 +39,7 @@
     "time": 469,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 438,
+    "timeMonth": 436,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-11-14": 1180,
